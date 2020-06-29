@@ -87,3 +87,22 @@ body {
     font-weight: 600;
     margin-top: 25px;
 }
+
+/* end header area*/
+/* start singup area*/
+
+.left-area{
+    width: 55%;
+    float: left;
+    
+    
+
+}
+
+.right-area{
+
+    width: 45%;   
+    float: left;
+    
+
+}
